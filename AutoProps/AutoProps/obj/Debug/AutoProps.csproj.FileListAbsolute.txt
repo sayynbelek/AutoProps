@@ -1,0 +1,6 @@
+Z:\AutoProps\AutoProps\bin\Debug\AutoProps.exe.config
+Z:\AutoProps\AutoProps\bin\Debug\AutoProps.exe
+Z:\AutoProps\AutoProps\bin\Debug\AutoProps.pdb
+Z:\AutoProps\AutoProps\obj\Debug\AutoProps.csprojResolveAssemblyReference.cache
+Z:\AutoProps\AutoProps\obj\Debug\AutoProps.exe
+Z:\AutoProps\AutoProps\obj\Debug\AutoProps.pdb
